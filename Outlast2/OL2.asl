@@ -14,3 +14,5 @@ isLoading
 //If Load Remover doesn't work properly, please contact Timbouton.
 //You can also try changing the offset of "ingame" by one
 //of the listed above, to see if it fixes it for you.
+
+//Outlast2.exe = 7FF7 A13B 0000
